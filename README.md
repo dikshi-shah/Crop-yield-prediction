@@ -109,6 +109,3 @@ jupyter notebook notebook/Crop_yield.ipynb
 *   Hands-on experience with deep learning for regression tasks
 *   Real-world application of AI in agriculture 🌱
 *   Understanding the impact of preprocessing and scaling on model performance
-
-## 📄 License
-MIT License
