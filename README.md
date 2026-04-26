@@ -64,7 +64,7 @@ Predicted values were inverse-transformed to obtain actual crop yield values in 
 
 ## 📈 Results
 
-*   Mean Absolute Error (MAE): ~0.4 tons/hectare
+*   Mean Absolute Error (MAE): ~0.013 tons/hectare
 *   The model captures non-linear relationships in agricultural data effectively
 *   Strong generalization observed on unseen test data
 
